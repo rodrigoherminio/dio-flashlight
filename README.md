@@ -6,6 +6,7 @@ Descrição: no Curso de Introdução ao React Native surgiu o desafio: "Constru
 
 ![image](https://user-images.githubusercontent.com/28990749/165650568-afdd77ea-fa79-488c-ac0b-13c9ecce847c.png)
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DgQj6VK/CelOff.png" alt="CelOff" border="0" /></a>
 
 ## Conteúdo 
 
