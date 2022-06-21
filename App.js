@@ -41,8 +41,8 @@ const App = () => {
           style={style.dioLogo}
           source={
             toggle
-              ? require('./assets/icons/logo-dio.png')
-              : require('./assets/icons/logo-dio-white.png')
+              ? require('./assets/icons/Design sem nome (11).png')
+              : require('./assets/icons/logo-Preta-Transparente.png')
           }
         />
       </TouchableOpacity>
